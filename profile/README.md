@@ -69,8 +69,8 @@ Fieldstack is a self-hosted, modular framework that helps you manage your person
 - 🌐 **Website**: [fieldstack.dev](https://fieldstack.dev)
 - 📖 **Documentation**: [docs.fieldstack.dev](https://docs.fieldstack.dev)
 - 🏪 **Marketplace**: [marketplace.fieldstack.dev](https://marketplace.fieldstack.dev)
-- 💬 **Discord**: [Join our community](https://discord.gg/...)
-- 🐦 **Twitter**: [@fieldstack](https://twitter.com/fieldstack)
+- 💬 **Discord**: [Join our community](https://discord.gg/tVnhbaB9yY)
+- 🐦 **X(Twitter)**: [@PSquare_Studio](https://x.com/PSquare_Studio)
 
 ---
 
@@ -115,7 +115,7 @@ All Fieldstack Project repositories are licensed under the **MIT License**.
 
 Fieldstack is developed and maintained by **PSquare DIVISION**, dedicated to creating open-source tools that prioritize user privacy and control.
 
-**Contact**: [psquare-division@github.com](mailto:psquare-division@github.com)
+**Contact**: [biz@soiv-studio.xyz](mailto:biz@soiv-studio.xyz)
 
 ---
 
