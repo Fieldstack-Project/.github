@@ -58,8 +58,8 @@ Fieldstack is a self-hosted, modular framework that helps you manage your person
 
 - **Backend**: TypeScript + Node.js + Express/Fastify
 - **Frontend**: React + TypeScript + Vite
-- **Database**: PostgreSQL / SQLite / Supabase / MongoDB
-- **Deployment**: Docker / Railway / Cloudflare
+- **Database**: PostgreSQL / SQLite / Supabase / MongoDB / and more...
+- **Deployment**: Docker / Railway(Docker) / Cloudflare
 - **Monorepo**: pnpm workspaces
 
 ---
@@ -69,7 +69,7 @@ Fieldstack is a self-hosted, modular framework that helps you manage your person
 - 🌐 **Website**: [fieldstack.dev](https://fieldstack.dev)
 - 📖 **Documentation**: [docs.fieldstack.dev](https://docs.fieldstack.dev)
 - 🏪 **Marketplace**: [marketplace.fieldstack.dev](https://marketplace.fieldstack.dev)
-- 💬 **Discord**: [Join our community](https://discord.gg/tVnhbaB9yY)
+- 💬 **Discord**: [Join our community](https://discord.gg/5m4aHKmWgg)
 - 🐦 **X(Twitter)**: [@PSquare_Studio](https://x.com/PSquare_Studio)
 
 ---
@@ -126,6 +126,6 @@ Fieldstack is developed and maintained by **PSquare DIVISION**, dedicated to cre
 [Get Started](https://github.com/fieldstack-project/fieldstack) • 
 [Documentation](https://docs.fieldstack.dev) • 
 [Marketplace](https://marketplace.fieldstack.dev) • 
-[Discord](https://discord.gg/...)
+[Discord](https://discord.gg/5m4aHKmWgg)
 
 </div>
