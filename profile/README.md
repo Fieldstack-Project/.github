@@ -24,7 +24,7 @@ Fieldstack is a self-hosted, modular framework that helps you manage your person
 
 ### Core Framework
 - **[fieldstack](https://github.com/fieldstack-project/fieldstack)** - Main framework and core system
-- **[website](https://github.com/fieldstack-project/website)** - Official website and documentation
+- **[website](https://github.com/Fieldstack-Project/main_Website_Full-Stack)** - Official website and documentation
 - **[module-registry](https://github.com/fieldstack-project/module-registry)** - Verified module registry
 
 ### Official Modules
