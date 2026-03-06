@@ -94,7 +94,7 @@ Fieldstack is free and always will be. If you find it helpful, consider:
 - 💬 **Join** our community
 - 🐛 **Report** bugs and issues
 - 📢 **Share** with others
-- 💰 **Sponsor** (optional) - [buy me acoffee](https://buymeacoffee.com/soivstudio) / [GitHub Sponsors](https://github.com/sponsors/psquare-division)
+- 💰 **Sponsor** (optional) - [buy me a coffee](https://buymeacoffee.com/soivstudio) / [GitHub Sponsors](https://github.com/sponsors/psquare-division)
 
 **Remember**: All features are free regardless of sponsorship!
 
